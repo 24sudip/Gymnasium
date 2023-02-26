@@ -1,0 +1,217 @@
+@media (max-width: 575.98px) {
+
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        padding-top: 30px;
+        text-align: right;
+        padding-right: 7px;
+    }
+    .logo_inner {
+        left: 20px;
+    }
+    #about .about_bottom{
+        order: 2;
+    }
+    #about .about_top{
+        order: 1;
+    }
+    .team_item:hover .team_text p{
+        bottom: -95px;
+    }
+    #testimonial .slick-dots {
+        transform: translateX(-12%);
+    }
+    #testimonial .slick-dots li button {        
+        margin-left: 3px;
+    }
+    .testimonial_item p{
+        padding: 0 10px;
+        margin-top: 0;
+    }
+    .testimonial_icon{
+        margin-left: 30px;
+        margin-top: -5px;
+    }
+    .testimonial_item h4,
+    .testimonial_item h5{
+        padding-left: 30px !important;
+    }
+    .testimonial_item img{
+        padding-left: 10px;
+    }
+    #colorful_tab{
+        display: none;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        padding-top: 30px;
+        text-align: right;
+        padding-right: 4px;
+    }
+    #about .about_bottom{
+        order: 2;
+    }
+    #about .about_top{
+        order: 1;
+    }
+    .testimonial_icon{
+        margin-left: 40px;
+    }
+    .testimonial_item h4,
+    .testimonial_item h5{
+        padding-left: 40px !important;
+    }
+    #testimonial .slick-dots {
+        transform: translateX(-12%);
+    }
+    .team_item:hover .team_text p{
+        bottom: -135px;
+    }
+    #colorful_tab{
+        display: none;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .menu_bg button{
+        border: 2px solid #fff;
+    }
+    .menu_bg button i{
+        color: #fff !important;
+    }
+    .navbar-toggler:focus {
+        box-shadow: 0 0 0 transparent;
+    }
+    .navbar-nav {
+        padding-top: 30px;
+        text-align: right;
+        padding-right: 4px;
+    }
+    #about .about_bottom{
+        order: 2;
+    }
+    #about .about_top{
+        order: 1;
+    }
+    .testimonial_icon{
+        margin-left: 40px;
+    }
+    .testimonial_item h4,
+    .testimonial_item h5{
+        padding-left: 40px !important;
+    }
+    #testimonial .slick-dots {
+        transform: translateX(-9%);
+    }
+    .team_item:hover .team_text p{
+        bottom: -115px;
+    }
+    #colorful_tab{
+        display: none;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        display: none !important;
+    }
+    .next{
+        display: none !important;
+    }
+}
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .about_top p.about_para{
+        display: none;
+    }
+    .team_item:hover .team_text p{
+        bottom: -155px;
+    }
+    .testimonial_icon{
+        margin-left: 20px;
+    }
+    .testimonial_item h4,
+    .testimonial_item h5{
+        padding-left: 20px !important;
+    }
+    #testimonial .slick-dots {
+        transform: translateX(-7%);
+    }
+    #testimonial .slick-dots li button {        
+        margin-left: 3px;
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        left: 2%;
+    }
+    .next{
+        right: 2%;
+    }
+}
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+    .about_bottom{
+        margin-top: 45px;
+    }
+    .team_item:hover .team_text p{
+        bottom: -135px;
+    }
+    #testimonial .slick-dots {
+        transform: translateX(-6%);
+    }
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        left: 2%;
+    }
+    .next{
+        right: 2%;
+    }
+}
+@media (min-width: 1400px) {
+    .market_item img{
+        width: 90%;
+    }
+    .prev{
+        left: 3%;
+    }
+    .next{
+        right: 3%;
+    }
+}
